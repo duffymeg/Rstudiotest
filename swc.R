@@ -148,3 +148,4 @@ analyzeall<-function(datapattern){
 
 analyzeall("inflam")
 
+sadasd
